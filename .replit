@@ -1,0 +1,2 @@
+language = "java10"
+run = "java simpleos.sys.OS"
