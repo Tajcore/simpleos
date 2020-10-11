@@ -34,4 +34,15 @@ public abstract class Memory {
         }
     }//set Value
 
+
+
+		public String toString(){
+			String template = "|";
+			for (int i = 0; i < size; i++){
+				template = template +" Address: " +i   +", Value: " +memloc[i]  +"|";
+			}
+
+			return template;
+		}
+
 }//end abstract class memory
