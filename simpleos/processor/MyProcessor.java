@@ -63,7 +63,7 @@ System.out.flush();
 
 				System.out.println("sequence generated so far is " + sequence.toString());
 
-				System.out.println("Remember to press any key to end program")
+				System.out.println("Remember to press enter to end program")
 				;
 				
 				});
@@ -85,7 +85,7 @@ System.out.flush();
 
 				System.out.println("***OUTPUT****: "+ output);
 				System.out.println("sequence generated so far is " + sequence.toString());
-				System.out.println("Remember to press any key to end program");
+				System.out.println("Remember to press enter to end program");
 
 
 				});
